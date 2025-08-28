@@ -3,6 +3,8 @@
 Aplicação web desenvolvida para apresentar os serviços do **Studio P Concept**, um salão de beleza moderno que valoriza a feminilidade e o autocuidado.  
 Projeto feito com **React + TypeScript + Vite**, com design responsivo e elegante.  
 
+🔗 **Acesse o projeto online**: [Studio P Concept](https://studiop-concept.vercel.app/)
+
 ![Preview](./src/assets/hero-local.jpg)
 
 ---
@@ -11,7 +13,7 @@ Projeto feito com **React + TypeScript + Vite**, com design responsivo e elegant
 - 📌 **Home** com destaque da identidade visual  
 - 💇‍♀️ **Serviços**: corte, escova, hidratação, reconstrução, mechas, progressiva  
 - 🖼️ **Galeria de imagens** com trabalhos realizados  
-- 📍 **Quem Somos**: apresentação do salão  
+- 🙋‍♀️ **Quem Somos**: apresentação do salão  
 - 📞 **Contato** com endereço, horário de funcionamento e link direto para WhatsApp  
 - 📱 **Design Responsivo**: adaptado para desktop e mobile  
 
@@ -21,8 +23,6 @@ Projeto feito com **React + TypeScript + Vite**, com design responsivo e elegant
 - ⚡ [Vite](https://vitejs.dev/)  
 - ⚛️ [React](https://reactjs.org/)  
 - 🟦 [TypeScript](https://www.typescriptlang.org/)  
-- 🎨 CSS com boas práticas (Flexbox, Grid e variáveis CSS)  
+- 🎨 CSS com boas práticas (**Flexbox, Grid e variáveis CSS**)  
 
 ---
-
-## 📂 Estrutura de Pastas

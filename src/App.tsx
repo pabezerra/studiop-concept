@@ -3,7 +3,7 @@ import Home from './pages/Home'
 import Services from './pages/Services'
 import Gallery from './pages/Gallery'
 import Contact from './pages/Contact'
-import logo from './assets/logo.png'
+import logo from './assets/logo-big.png' 
 import { useEffect, useState } from 'react'
 
 const Header = () => {
